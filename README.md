@@ -20,7 +20,7 @@ def set_weights(self, weight):
     with self.distribute_strategy.scope():
       return super(Model, self).set_weights(weight)
 ```
-Easily find the location: In the same class as "PEARL_pretrain.get_weights()" in "FL_train.py".
+Easily find the place: In the same class as "PEARL_pretrain.get_weights()" in "FL_train.py".
 The form of "set_weights" is the same as that of "get_weights".
 
 ## Usage
