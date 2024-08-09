@@ -34,3 +34,20 @@ python run_hyperbolic_embedding.py
 
 python FL_train.py
 ```
+## Citation
+
+Please cite our paper if you use this code in your own work:
+
+```
+@ARTICLE{10475550,
+  author={Tang, Tao and Han, Zhuoyang and Cai, Zhen and Yu, Shuo and Zhou, Xiaokang and Oseni, Taiwo and Das, Sajal K.},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Personalized Federated Graph Learning on Non-IID Electronic Health Records}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-14},
+  keywords={Diseases;Predictive models;Federated learning;Data models;Adaptation models;Training;Task analysis;Disease prediction;electronic health record (EHR);graph neural network (GNN);non-independent and identically distributed (Non-IID) data;personalized federated learning},
+  doi={10.1109/TNNLS.2024.3370297}
+}
+\```
