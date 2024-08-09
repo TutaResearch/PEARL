@@ -50,4 +50,4 @@ Please cite our paper if you use this code in your own work:
   keywords={Diseases;Predictive models;Federated learning;Data models;Adaptation models;Training;Task analysis;Disease prediction;electronic health record (EHR);graph neural network (GNN);non-independent and identically distributed (Non-IID) data;personalized federated learning},
   doi={10.1109/TNNLS.2024.3370297}
 }
-\```
+```
