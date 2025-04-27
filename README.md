@@ -44,10 +44,10 @@ Please cite our paper if you use this code in your own work:
   journal={IEEE Transactions on Neural Networks and Learning Systems}, 
   title={Personalized Federated Graph Learning on Non-IID Electronic Health Records}, 
   year={2024},
-  volume={},
-  number={},
-  pages={1-14},
+  volume={35},
+  number={9},
+  pages={11843-11856},
   keywords={Diseases;Predictive models;Federated learning;Data models;Adaptation models;Training;Task analysis;Disease prediction;electronic health record (EHR);graph neural network (GNN);non-independent and identically distributed (Non-IID) data;personalized federated learning},
-  doi={10.1109/TNNLS.2024.3370297}
-}
+  doi={10.1109/TNNLS.2024.3370297}}
+
 ```
