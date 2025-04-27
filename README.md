@@ -1,5 +1,5 @@
 # PEARL
-Tensorflow implementation of "Personalized Federated Graph Learning on Non-IID Electronic Health Records".
+Tensorflow implementation of "[Personalized Federated Graph Learning on Non-IID Electronic Health Records](https://doi.org/10.1109/TNNLS.2024.3370297)".
 
 ## Dependencies
 - python>=3.7
